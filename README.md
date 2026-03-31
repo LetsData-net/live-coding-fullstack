@@ -2,14 +2,6 @@
 
 ![work-smart-not-hard.svg](assets/work-smart-not-hard.svg)
 
-Task: complete the following steps:
-
-* Create the front-end for the application - visualize the database with alerts: `db.sqlite`.
-* API: allow filtering alerts database by column `project`.
-* Front-end: add filtering to frontend by connecting backend instead of usage mocked data.
-
----
-
 ## Backend (FastAPI)
 
 ### Run
